@@ -1,0 +1,6 @@
+{
+  "name": "VOLTX GEAR | Premium Tech & Gadgets Store",
+  "description": "High-performance tech accessories, audiophile wireless sound, smart wearables, and modern desk essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
